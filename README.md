@@ -5,7 +5,7 @@
 
 AI-Chat-Bot is a complete project example with OpenAI ChatGPT and React-Vite, using OpenAI API, Emoji-Mart, Uuid, and have a Chat History, New Chat Creation features, and deploy on Vercel.
 
-**Note: To check this web app live, click here:** ai-chat-bot-arnob.vercel.app
+**Note: To check this web app live, click here:** https://ai-chat-bot-arnob.vercel.app/
 
 ## To Install Dependences
 
