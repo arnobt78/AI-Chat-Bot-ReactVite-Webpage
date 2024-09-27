@@ -1,5 +1,7 @@
 
-## AI-ChatBot-ReactVite-Webpage
+![Screenshot 2024-09-27 at 15 19 41](https://github.com/user-attachments/assets/3a858fd0-4a58-4151-84da-49e20efc0c13) ![Screenshot 2024-09-27 at 15 20 39](https://github.com/user-attachments/assets/ea510f08-384c-4244-b5cc-ac2daaa60183) ![Screenshot 2024-09-27 at 15 20 56](https://github.com/user-attachments/assets/e7223e1b-799c-4ffe-b41b-0ecbf960b5c7)
+
+## AI-Chat-Bot-ReactVite-Webpage
 
 AI-Chat-Bot is a complete project example with OpenAI ChatGPT and React-Vite, using OpenAI API, Emoji-Mart, Uuid, and have a Chat History, New Chat Creation features, and deploy on Vercel.
 
